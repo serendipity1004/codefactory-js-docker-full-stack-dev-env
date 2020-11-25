@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81aff2ec-2078-44da-a03f-1ff309f70611" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JupyterTrust" id="c1d0d4cd-68cd-4c75-92f3-417e1d929e8c" />
+  <component name="ProjectId" id="1kleDRjGy7KtKELHJCZfmHum4xG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81aff2ec-2078-44da-a03f-1ff309f70611" name="Default Changelist" comment="" />
+      <created>1606279485182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606279485182</updated>
+      <workItem from="1606279486241" duration="38000" />
+      <workItem from="1606279554019" duration="6262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1024" y="233" key="#Project_Structure" timestamp="1606279566461">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="1024" y="233" key="#Project_Structure/0.23.2048.1257@0.23.2048.1257" timestamp="1606279566461" />
+    <state x="775" y="482" key="#SQL_Dialects" timestamp="1606283478433">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="775" y="482" key="#SQL_Dialects/0.23.2048.1257@0.23.2048.1257" timestamp="1606283478433" />
+    <state x="1136" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606283482642">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="1136" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1257@0.23.2048.1257" timestamp="1606283482642" />
+    <state x="525" y="290" key="SettingsEditor" timestamp="1606284578248">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="525" y="290" key="SettingsEditor/0.23.2048.1257@0.23.2048.1257" timestamp="1606284578248" />
+  </component>
+</project>
